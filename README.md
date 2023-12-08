@@ -1,3 +1,3 @@
-# goit-js-hw-01
+# goit-js-hw-02
 
-Variables and types. Function basics.
+Modul 2. Branching and cycles.
